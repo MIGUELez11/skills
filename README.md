@@ -5,14 +5,14 @@ A collection of reusable agent skills for Claude Code and other AI assistants.
 ## Installation
 
 ```bash
-npx skills add MIGUELez11/skills@<skill-name>
+npx skills add https://github.com/MIGUELez11/skills --skill <skill-name>
 ```
 
 ## Available Skills
 
 | Name | Description |
 |------|-------------|
-| _(more coming soon)_ | |
+| [add-skill](skills/add-skill/SKILL.md) | Add a new skill to this repo |
 
 ## Structure
 
