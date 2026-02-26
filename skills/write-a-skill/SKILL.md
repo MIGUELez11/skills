@@ -1,5 +1,5 @@
 ---
-name: add-skill
+name: write-a-skill
 description: Add a new agent skill to the MIGUELez11/skills personal GitHub repo. Use when the user wants to create a new workflow, process, or reusable capability and publish it to their skills collection.
 ---
 

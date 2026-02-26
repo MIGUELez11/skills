@@ -12,7 +12,7 @@ npx skills add https://github.com/MIGUELez11/skills --skill <skill-name>
 
 | Name | Description |
 |------|-------------|
-| [add-skill](skills/add-skill/SKILL.md) | Add a new skill to this repo |
+| [write-a-skill](skills/write-a-skill/SKILL.md) | Add a new skill to this repo |
 
 ## Structure
 
