@@ -12,6 +12,7 @@ npx skills add https://github.com/MIGUELez11/skills --skill <skill-name>
 
 | Name | Description |
 |------|-------------|
+| [obsidian-tasks](skills/obsidian-tasks/SKILL.md) | Manage tasks and PRDs in an Obsidian vault via direct file creation |
 | [write-a-skill](skills/write-a-skill/SKILL.md) | Add a new skill to this repo |
 
 ## Structure
