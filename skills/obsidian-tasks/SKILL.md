@@ -38,7 +38,8 @@ created: <YYYY-MM-DD HH:mm>
 ```
 
 4. Add body sections: `## Context`, `## Task`, `## Acceptance Criteria`, `## Notes`
-5. Confirm file path to the user
+5. Add the task to the Kanban board: read `<vault>/Kanban board.md` and append `- [ ] [[<Title>]]` as a new item in the `## TODO` lane
+6. Confirm file path to the user
 
 ### Create a PRD
 
@@ -75,4 +76,4 @@ The Kanban plugin renders these as clickable links on cards.
 - **Never use Templater syntax** (`<% ... %>`) — write final values directly
 - **Filenames = identifiers** — wiki-links resolve by filename, so keep titles stable
 - **Direct writes only** — no Obsidian CLI or API required; the vault filesystem is the interface
-- **Kanban lanes** are managed by the user in Obsidian — do not modify `Kanban board.md` to move cards
+- **Kanban board**: always add new tasks to the `## TODO` lane in `Kanban board.md` — do not move or reorder existing cards
