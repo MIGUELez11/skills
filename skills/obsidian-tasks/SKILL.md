@@ -21,7 +21,7 @@ If not provided, ask the user before proceeding.
 
 ### Create a task
 
-1. Determine title, type, priority, and optional jira-ticket/prd from context
+1. Determine title, type, priority, git repository and optional jira-ticket/prd from context
 2. Generate `created` timestamp: `YYYY-MM-DD HH:mm` (current date/time)
 3. Write `<vault>/Tasks/<Title>.md` with frontmatter:
 
@@ -34,6 +34,7 @@ blocked-by: []
 jira-ticket:
 prd:
 created: <YYYY-MM-DD HH:mm>
+repo:
 ---
 ```
 
