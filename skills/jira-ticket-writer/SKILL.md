@@ -11,7 +11,7 @@ description: Write well-structured Jira tickets or improve existing ones. Enforc
 2. Ask what the user knows — summary, context, problem or goal
 3. Fill the template by asking targeted questions for any missing fields
 4. Present the full draft — iterate until approved
-5. Optionally create or update via `acli` (see atlassian-cli skill)
+5. Optionally create or update via `jira` (see jira-cli skill)
 
 ## Workflow
 
@@ -21,7 +21,7 @@ description: Write well-structured Jira tickets or improve existing ones. Enforc
 - [ ] Ensure each acceptance criterion is independently testable
 - [ ] Include a clear definition of done
 - [ ] Present full draft and iterate on feedback
-- [ ] Offer to submit via `acli jira workitem create` or `acli jira workitem edit`
+- [ ] Offer to submit via jira cli (jira cli does not work in sandbox mode) 
 
 ## Key principles
 

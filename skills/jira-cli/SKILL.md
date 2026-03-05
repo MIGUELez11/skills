@@ -79,3 +79,6 @@ jira project list                          # All projects
 - `jira issue list --raw | jq '...'` — pipe JSON to jq for scripting
 - Use `--no-input` with all required flags to skip interactive prompts in scripts
 - JQL via `-q`: `assignee = currentUser() AND sprint in openSprints()`
+
+## Bugs
+In codex jira-cli authentication does not work in sandbox terminals
