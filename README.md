@@ -16,6 +16,7 @@ npx skills add https://github.com/MIGUELez11/skills --skill <skill-name>
 | [git-jira-branch](skills/git-jira-branch/SKILL.md) | Switch to the git branch for a Jira ticket, or create one via `jiraSwitchToBranch` |
 | [jira-cli](skills/jira-cli/SKILL.md) | Interact with Jira from the terminal using ankitpokhrel/jira-cli (`jira` command) |
 | [jira-ticket-writer](skills/jira-ticket-writer/SKILL.md) | Write well-structured Jira tickets with consistent templates |
+| [obsidian-prd](skills/obsidian-prd/SKILL.md) | Guide a PRD interview and write structured PRDs to an Obsidian vault |
 | [obsidian-tasks](skills/obsidian-tasks/SKILL.md) | Manage tasks and PRDs in an Obsidian vault via direct file creation |
 | [write-a-skill](skills/write-a-skill/SKILL.md) | Add a new skill to this repo |
 
