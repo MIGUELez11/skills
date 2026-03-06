@@ -43,3 +43,4 @@ jiraSwitchToBranch TICKET-1234
 - Always search **local** branches first (`git branch --list`), not remote.
 - The ticket prefix match is case-sensitive; use the ticket number exactly as provided.
 - Do not create branches manually — `jiraSwitchToBranch` is the authoritative tool for that.
+- `jiraSwitchToBranch` is not loaded in you environment, so run `sh ~/.config/helpers/switchToJiraBranch.sh`
