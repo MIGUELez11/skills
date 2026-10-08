@@ -18,6 +18,7 @@ npx skills add https://github.com/MIGUELez11/skills --skill <skill-name>
 | [jira-ticket-writer](skills/jira-ticket-writer/SKILL.md) | Write well-structured Jira tickets with consistent templates |
 | [obsidian-prd](skills/obsidian-prd/SKILL.md) | Guide a PRD interview and write structured PRDs to an Obsidian vault |
 | [obsidian-tasks](skills/obsidian-tasks/SKILL.md) | Manage tasks and PRDs in an Obsidian vault via direct file creation |
+| [review-mr](skills/review-mr/SKILL.md) | Review a GitLab MR and leave must-fix and nit findings as draft comments |
 | [write-a-skill](skills/write-a-skill/SKILL.md) | Add a new skill to this repo |
 
 ## Structure
